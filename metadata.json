@@ -1,0 +1,6 @@
+{
+  "name": "YHWH",
+  "description": "Mobile Inventory & Billing Platform for retail businesses. Supports local billing, real-time inventory management, purchases, supplier/customer tracking, and receipt sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
